@@ -3,7 +3,7 @@ readme.md
 
 <img src="https://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif?1479080836" width="30" /> I am 小华 who is a developer from NanJing. <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> ![](https://visitor-badge.glitch.me/badge?page_id=xch1029)
 
-<img alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+<img alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" />
 
 ### Links 📌
 
