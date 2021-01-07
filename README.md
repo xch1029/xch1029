@@ -7,8 +7,8 @@ readme.md
 
 ### Links 📌
 
-- Blog: [http://v2l.tech](http://v2l.tech)
-- Juejin: [https://juejin.cn/user/4089838984504760)
+- Blog: [https://v2l.tech](https://v2l.tech)
+- Juejin: [https://juejin.cn/user/4089838984504760](https://juejin.cn/user/4089838984504760)
 
 
 ### Contract 😄
