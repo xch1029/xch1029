@@ -3,7 +3,6 @@
 
 ### Links 📌
 
-- Blog: [https://v2l.tech](https://v2l.tech)
 - Juejin: [https://juejin.cn/user/4089838984504760](https://juejin.cn/user/4089838984504760)
 
 
